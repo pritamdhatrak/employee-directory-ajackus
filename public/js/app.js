@@ -9,7 +9,7 @@ let sortOrder = 'asc';
 
 async function loadEmployees() {
     try {
-        const response = await fetch('./data/employees.json');
+        const response = await fetch('/data/employees.json');
         employees = await response.json();
         filteredEmployees = [...employees];
         console.log('✅ Successfully loaded JSON data:', employees[0]);
