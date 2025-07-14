@@ -1,0 +1,122 @@
+﻿[
+    {
+        "id": 1,
+        "firstName": "Rahul",
+        "lastName": "Sharma",
+        "email": "rahul.sharma@ajackus.com",
+        "department": "Engineering",
+        "role": "Developer"
+    },
+    {
+        "id": 2,
+        "firstName": "Priya",
+        "lastName": "Patel",
+        "email": "priya.patel@ajackus.com",
+        "department": "Marketing",
+        "role": "Manager"
+    },
+    {
+        "id": 3,
+        "firstName": "Amit",
+        "lastName": "Kumar",
+        "email": "amit.k@ajackus.com",
+        "department": "Sales",
+        "role": "Executive"
+    },
+    {
+        "id": 4,
+        "firstName": "Neha",
+        "lastName": "Gupta",
+        "email": "neha.gupta@ajackus.com",
+        "department": "HR",
+        "role": "Manager"
+    },
+    {
+        "id": 5,
+        "firstName": "Arjun",
+        "lastName": "Reddy",
+        "email": "arjun.r@ajackus.com",
+        "department": "Engineering",
+        "role": "Developer"
+    },
+    {
+        "id": 6,
+        "firstName": "Anjali",
+        "lastName": "Desai",
+        "email": "anjali.d@ajackus.com",
+        "department": "Finance",
+        "role": "Analyst"
+    },
+    {
+        "id": 7,
+        "firstName": "Rajesh",
+        "lastName": "Verma",
+        "email": "rajesh.v@ajackus.com",
+        "department": "Engineering",
+        "role": "Manager"
+    },
+    {
+        "id": 8,
+        "firstName": "Meera",
+        "lastName": "Iyer",
+        "email": "meera.i@ajackus.com",
+        "department": "Marketing",
+        "role": "Designer"
+    },
+    {
+        "id": 9,
+        "firstName": "Vikram",
+        "lastName": "Singh",
+        "email": "vikram.s@ajackus.com",
+        "department": "Sales",
+        "role": "Executive"
+    },
+    {
+        "id": 10,
+        "firstName": "Pooja",
+        "lastName": "Malhotra",
+        "email": "pooja.m@ajackus.com",
+        "department": "HR",
+        "role": "Executive"
+    },
+    {
+        "id": 11,
+        "firstName": "Karthik",
+        "lastName": "Nair",
+        "email": "karthik.n@ajackus.com",
+        "department": "Finance",
+        "role": "Analyst"
+    },
+    {
+        "id": 12,
+        "firstName": "Ananya",
+        "lastName": "Mehta",
+        "email": "ananya.m@ajackus.com",
+        "department": "Engineering",
+        "role": "Developer"
+    },
+    {
+        "id": 13,
+        "firstName": "Aditya",
+        "lastName": "Krishnan",
+        "email": "aditya.k@ajackus.com",
+        "department": "Marketing",
+        "role": "Executive"
+    },
+    {
+        "id": 14,
+        "firstName": "Divya",
+        "lastName": "Choudhury",
+        "email": "divya.c@ajackus.com",
+        "department": "Sales",
+        "role": "Manager"
+    },
+    {
+        "id": 15,
+        "firstName": "Rohan",
+        "lastName": "Kapoor",
+        "email": "rohan.k@ajackus.com",
+        "department": "Engineering",
+        "role": "Developer"
+    }
+]

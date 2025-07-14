@@ -1,0 +1,28 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "Employee Directory Web Interface for AJACKUS",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx http-server public -p 8080 -o",
+    "dev": "npx http-server public -p 8080 -o -c-1",
+    "serve": "npx http-server public -p 3000 -o",
+    "build": "echo 'Build completed - ready for production'"
+  },
+  "keywords": [
+    "employee",
+    "directory",
+    "freemarker",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "AJACKUS Developer",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
